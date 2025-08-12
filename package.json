@@ -1,0 +1,12 @@
+{
+  "name": "suenos-luminosos",
+  "version": "1.0.0",
+  "description": "PWA para ayudar a personas con trastornos del sueño",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
